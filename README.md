@@ -10,3 +10,7 @@ Therapi is a password-protected diary with a minimalist interface where users ar
 * ```phase3``` - where we plan to add content from phase 3
 * ```phase4``` - where we plan to add content from phase 4
 
+#### members
+* Faiza Ehsan
+* Sia Lalwani
+* Prachi Sadhwani
