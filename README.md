@@ -17,4 +17,3 @@ Therapi is a password-protected diary with a minimalist interface where users ar
 - Faiza Ehsan
 - Sia Lalwani
 - Prachi Sadhwani
-- another person
