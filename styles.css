@@ -9,22 +9,44 @@ body {
   display: flex;
   align-items: center;
 }
-#main-name {
+.main-name {
   color: #003d66;
   font-size: 50px;
-}
-
-#log {
-  border: 10px, solid;
-  border-color: black;
 }
 
 #about {
   background-color: #003d66;
   color: #e6eaef;
   margin-left: auto;
-  padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 40px;
+  padding-right: 40px;
   font-size: 20px;
-  border: #003d66, solid;
-  border-radius: 3px;
+  text-align: center;
+  border: black, solid;
+  border-radius: 10px;
+}
+
+#log {
+  background-color: #003d66;
+  border: 50px, solid;
+  border-color: pink;
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+  color: #e6eaef;
+  text-align: center;
+}
+
+form {
+  margin: 10px;
+}
+
+#user {
+  margin-bottom: 20px;
+}
+
+#pass {
+  border: #003d66;
 }
