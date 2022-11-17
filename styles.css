@@ -35,13 +35,24 @@ body {
   border-color: pink;
   width: 50%;
   margin: auto;
+  margin-top: 90px;
   padding: 10px;
   color: #e6eaef;
   text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 form {
   margin: 10px;
+}
+
+input[type="text"] {
+  transition: width 4s ease-in-out;
+}
+
+input[type="text"]:focus {
+  width: 50%;
 }
 
 #user {
