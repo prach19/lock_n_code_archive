@@ -1,8 +1,9 @@
-body {
-  background-color: #e6eaef;
-}
 * {
   font-family: "Raleway", sans-serif;
+}
+
+body {
+  background-color: #e6eaef;
 }
 
 .header {
@@ -14,7 +15,7 @@ body {
   font-size: 50px;
 }
 
-#about {
+#info {
   background-color: #003d66;
   color: #e6eaef;
   margin-left: auto;
@@ -24,7 +25,7 @@ body {
   padding-right: 40px;
   font-size: 20px;
   text-align: center;
-  border: black, solid;
+  border: none;
   border-radius: 10px;
 }
 
@@ -49,4 +50,22 @@ form {
 
 #pass {
   border: #003d66;
+}
+
+#desc {
+  padding: 20px;
+}
+
+p > button {
+  margin: 20px;
+  display: flex;
+}
+
+#h2abt {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #003d66;
 }
